@@ -20,5 +20,4 @@ jobs:
           port: 21
           protocol: ftp
           local-dir: './'                        # thư mục bạn muốn upload
-          remote-dir: '/www.test2.somee.com/'    # QUAN TRỌNG: path somee yêu cầu
-          passive: true
+          server-dir: '/www.test2.somee.com/'    # QUAN TRỌNG: path somee yêu cầu
