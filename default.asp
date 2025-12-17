@@ -106,8 +106,7 @@
   <body>
     <!-- Header -->
     <header>
-      <h1>Thái Huy DH52200775</h1>
-      <p>Lớp D22_TH13 | Mã số 123456</p>
+      <h1>Mè Thái Huy thứ 4 ca 2</h1>
     </header>
 
     <!-- Navigation -->
